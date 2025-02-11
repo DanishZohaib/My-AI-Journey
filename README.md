@@ -14,7 +14,7 @@ I am a beginner in AI, currently learning from **GIAIC**—an official, authenti
 ## 🚀 How to Get Started
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/My-AI-Journey.git
+   git clone https://github.com/DanishZohaib/My-AI-Journey.git
    ```
 2. **Explore the projects** – Check out different folders and files.
 3. **Learn and experiment** – Modify code, run models, and gain hands-on experience.
