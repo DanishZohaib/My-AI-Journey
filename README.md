@@ -3,7 +3,7 @@
 Welcome to **My AI Journey**! This repository is where I document my learning and projects as I explore the world of **Agentic AI**, Machine Learning, and Automation.
 
 ## 🌱 About Me
-I am a beginner in AI, currently learning from **GIAIC**—an official, authentic program by the **Governor of Sindh**. This repository is my hands-on learning space, where I apply what I learn through practical projects and experiments.
+I am a beginner in AI, currently learning from **GIAIC**—an official, authentic program by the **Governor Sindh Kamran Khan Tessori**. This repository is my hands-on learning space, where I apply what I learn through practical projects and experiments.
 
 ## 📂 What You'll Find Here
 - **Agentic AI Projects** – Exploring AI that can reason and take actions.
