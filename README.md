@@ -25,7 +25,7 @@ I am a beginner in AI, currently learning from **GIAIC**—an official, authenti
 - Share my learning journey with others.
 
 ## 🤝 Join Me!
-This is just the beginning! If you're also interested in AI, feel free to connect, collaborate, and share ideas. Let's learn and grow together! 🚀
+This is just the beginning! If you're also interested in python and AI, feel free to connect, collaborate, and share ideas. Let's learn and grow together! 🚀
 
 ---
 💡 *Learning AI, one step at a time!*
